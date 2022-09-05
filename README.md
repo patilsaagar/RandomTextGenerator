@@ -16,4 +16,4 @@
 <img src="https://github.com/patilsaagar/MotorwayAssignment/blob/main/Screenshot/MainScreen.png" width="200" height="400"/>
 
 ## Code Coverage 96.3%
-<img src="https://github.com/patilsaagar/MotorwayAssignment/blob/main/Screenshot/TestCaseCoverage.png" width="850" height="300"/>
+<img src="https://github.com/patilsaagar/RandomTextGenerator/blob/main/Screenshot/TestCoverage.png" width="850" height="500"/>
