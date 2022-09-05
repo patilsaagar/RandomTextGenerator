@@ -1,5 +1,5 @@
 
-# MotorwayAssignment
+# RandomTextGenerator
 
 ## Tools Used
 
