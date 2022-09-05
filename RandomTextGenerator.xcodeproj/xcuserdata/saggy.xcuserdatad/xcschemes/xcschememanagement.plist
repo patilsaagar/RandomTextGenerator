@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MotorwayAssignment.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>MotorwayAssignmentTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>MotorwayAssignmentUITests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>88285CDE28B8CC4E008F5D35</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>88285CF828B8CF30008F5D35</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>88D5FD1F28B9740600559D85</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>88EBDB9028B1155100C80EE0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
