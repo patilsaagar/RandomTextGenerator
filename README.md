@@ -1,5 +1,7 @@
 
 # RandomTextGenerator
+  A simple functionality to generate random text using SwiftUI textEditor and edit. 
+  More focus on how UI and Unit test cases should be
 
 ## Tools Used
 
